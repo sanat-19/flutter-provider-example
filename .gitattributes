@@ -5,3 +5,4 @@
 *.java linguist-detectable=false
 *.kt linguist-detectable=false
 *.other linguist-detectable=false
+*.html linguist-detectable=false
